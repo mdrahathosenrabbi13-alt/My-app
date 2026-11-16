@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PredictPlay</string>
+    <string name="disclaimer_text">Entertainment only. Virtual coins have no cash value.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_live">Live</string>
+    <string name="nav_my_bets">My Bets</string>
+    <string name="nav_wallet">Wallet</string>
+    <string name="nav_profile">Profile</string>
+    <string name="currency_unit">VC</string>
+    <string name="bet_slip_title">Bet Slip</string>
+    <string name="place_bet_cta">Place Virtual Bet</string>
+    <string name="daily_free_coins">Claim +250 Daily Free Coins</string>
+    <string name="responsible_play_title">Responsible Play</string>
+</resources>

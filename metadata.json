@@ -1,0 +1,6 @@
+{
+  "name": "PredictPlay",
+  "description": "Sports prediction simulator using virtual coins only. Entertainment only with no cash value.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
